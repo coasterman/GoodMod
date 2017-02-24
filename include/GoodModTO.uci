@@ -1,0 +1,7 @@
+`define GAMEMODE GoodModTO
+
+DefaultProperties
+{
+MinimumRespawnTime = 10.0
+
+}
